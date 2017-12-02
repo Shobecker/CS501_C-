@@ -1,0 +1,335 @@
+***************************************************
+Student ID Number: 111111111
+Name: JOHNSON, JAMES L
+Tel: 41027632134
+Gender: Male
+Registration of Spring 2017: Yes
+
+   Unofficial Report Card
+Grade     Credits      Class
+F         3            COSC237
+C         3            MUSC372
+C         5            PHSC362
+W         2            CIOS100
+F         2            POSC320
+
+Credits for Spring 2017: 13.00
+Spring 2017 Semester GPA: 1.23
+
+Total Credits: 47.00
+New Cumulative GPA: 2.27
+***************************************************
+***************************************************
+Student ID Number: 112233445
+Name: ANDREWS, PETER J
+Tel: 4433543333
+Gender: Male
+Registration of Spring 2017: No
+
+   Unofficial Report Card
+Grade     Credits      Class
+
+Credits for Spring 2017: 0.00
+Spring 2017 Semester GPA: 0.00
+
+Total Credits: 101.00
+New Cumulative GPA: 3.01
+***************************************************
+***************************************************
+Student ID Number: 221212111
+Name: LUCKY, LUCY L
+Tel: 4102343434
+Gender: Female
+Registration of Spring 2017: No
+
+   Unofficial Report Card
+Grade     Credits      Class
+
+Credits for Spring 2017: 0.00
+Spring 2017 Semester GPA: 0.00
+
+Total Credits: 67.00
+New Cumulative GPA: 2.66
+***************************************************
+***************************************************
+Student ID Number: 222222222
+Name: NAKAMURA, TOKY O
+Tel: 8144443429
+Gender: Female
+Registration of Spring 2017: Yes
+
+   Unofficial Report Card
+Grade     Credits      Class
+C         3            COSC301
+B         3            BIOL202
+B         4            SPED333
+C         3            SOCI212
+
+Credits for Spring 2017: 13.00
+Spring 2017 Semester GPA: 2.54
+
+Total Credits: 68.00
+New Cumulative GPA: 3.36
+***************************************************
+***************************************************
+Student ID Number: 254345433
+Name: MEDES, GLORIA A
+Tel: 2015569585
+Gender: Female
+Registration of Spring 2017: No
+
+   Unofficial Report Card
+Grade     Credits      Class
+
+Credits for Spring 2017: 0.00
+Spring 2017 Semester GPA: 0.00
+
+Total Credits: 67.00
+New Cumulative GPA: 2.99
+***************************************************
+***************************************************
+Student ID Number: 299992929
+Name: MARX, KARL Z
+Tel: 3014432873
+Gender: Male
+Registration of Spring 2017: No
+
+   Unofficial Report Card
+Grade     Credits      Class
+
+Credits for Spring 2017: 0.00
+Spring 2017 Semester GPA: 0.00
+
+Total Credits: 57.00
+New Cumulative GPA: 1.99
+***************************************************
+***************************************************
+Student ID Number: 310192393
+Name: NEWMANN, ALFRED X
+Tel: 4105434328
+Gender: Male
+Registration of Spring 2017: No
+
+   Unofficial Report Card
+Grade     Credits      Class
+
+Credits for Spring 2017: 0.00
+Spring 2017 Semester GPA: 0.00
+
+Total Credits: 80.00
+New Cumulative GPA: 2.76
+***************************************************
+***************************************************
+Student ID Number: 333333333
+Name: KRONECKER, LEO C
+Tel: 4437467484
+Gender: Male
+Registration of Spring 2017: Yes
+
+   Unofficial Report Card
+Grade     Credits      Class
+A         1            FRAC101
+A         3            BIOL101
+F         4            PSYC204
+A         3            GEOG201
+C         1            LATN302
+
+Credits for Spring 2017: 12.00
+Spring 2017 Semester GPA: 2.50
+
+Total Credits: 89.00
+New Cumulative GPA: 3.69
+***************************************************
+***************************************************
+Student ID Number: 337121111
+Name: VIRUS, VERA T
+Tel: 4104539877
+Gender: Female
+Registration of Spring 2017: No
+
+   Unofficial Report Card
+Grade     Credits      Class
+
+Credits for Spring 2017: 0.00
+Spring 2017 Semester GPA: 0.00
+
+Total Credits: 98.00
+New Cumulative GPA: 2.83
+***************************************************
+***************************************************
+Student ID Number: 345678999
+Name: CUSTER, FELICIA C
+Tel: 3107335374
+Gender: Male
+Registration of Spring 2017: Yes
+
+   Unofficial Report Card
+Grade     Credits      Class
+A         3            AMST292
+D         3            COSC236
+W         1            COSC490
+
+Credits for Spring 2017: 6.00
+Spring 2017 Semester GPA: 2.50
+
+Total Credits: 69.00
+New Cumulative GPA: 3.85
+***************************************************
+***************************************************
+Student ID Number: 367865456
+Name: REMBRANDT, ANTHONY F
+Tel: 2032393333
+Gender: Male
+Registration of Spring 2017: No
+
+   Unofficial Report Card
+Grade     Credits      Class
+
+Credits for Spring 2017: 0.00
+Spring 2017 Semester GPA: 0.00
+
+Total Credits: 86.00
+New Cumulative GPA: 2.96
+***************************************************
+***************************************************
+Student ID Number: 444556666
+Name: PORGY, BESS M
+Tel: 8148744857
+Gender: Female
+Registration of Spring 2017: Yes
+
+   Unofficial Report Card
+Grade     Credits      Class
+D         3            HIST401
+A         3            LATN324
+A         2            DANC321
+C         2            ARTH321
+B         3            MATH328
+
+Credits for Spring 2017: 13.00
+Spring 2017 Semester GPA: 2.77
+
+Total Credits: 123.00
+New Cumulative GPA: 2.47
+***************************************************
+***************************************************
+Student ID Number: 483764673
+Name: AUGUSTA, ADA T
+Tel: 4107363563
+Gender: Female
+Registration of Spring 2017: No
+
+   Unofficial Report Card
+Grade     Credits      Class
+
+Credits for Spring 2017: 0.00
+Spring 2017 Semester GPA: 0.00
+
+Total Credits: 83.00
+New Cumulative GPA: 3.03
+***************************************************
+***************************************************
+Student ID Number: 555667777
+Name: CAESAR, JULIE S
+Tel: 4434876373
+Gender: Female
+Registration of Spring 2017: Yes
+
+   Unofficial Report Card
+Grade     Credits      Class
+D         3            FINA201
+F         3            ECON343
+C         3            MATH200
+F         3            COSC237
+
+Credits for Spring 2017: 12.00
+Spring 2017 Semester GPA: 0.75
+
+Total Credits: 91.00
+New Cumulative GPA: 1.84
+***************************************************
+***************************************************
+Student ID Number: 666666666
+Name: MACDONALD, RONALD B
+Tel: 8148763873
+Gender: Male
+Registration of Spring 2017: No
+
+   Unofficial Report Card
+Grade     Credits      Class
+
+Credits for Spring 2017: 0.00
+Spring 2017 Semester GPA: 0.00
+
+Total Credits: 35.00
+New Cumulative GPA: 3.98
+***************************************************
+***************************************************
+Student ID Number: 711622833
+Name: WEERD, DEWEY L
+Tel: 4436745487
+Gender: Male
+Registration of Spring 2017: No
+
+   Unofficial Report Card
+Grade     Credits      Class
+
+Credits for Spring 2017: 0.00
+Spring 2017 Semester GPA: 0.00
+
+Total Credits: 43.00
+New Cumulative GPA: 2.18
+***************************************************
+***************************************************
+Student ID Number: 777665555
+Name: KIM, YANNGON X
+Tel: 2013333333
+Gender: Male
+Registration of Spring 2017: No
+
+   Unofficial Report Card
+Grade     Credits      Class
+
+Credits for Spring 2017: 0.00
+Spring 2017 Semester GPA: 0.00
+
+Total Credits: 97.00
+New Cumulative GPA: 1.04
+***************************************************
+***************************************************
+Student ID Number: 799444949
+Name: ROOSEVELT, ROSE Y
+Tel: 5787646465
+Gender: Female
+Registration of Spring 2017: Yes
+
+   Unofficial Report Card
+Grade     Credits      Class
+C         4            BIOL202
+W         5            CHEM207
+A         3            COSC311
+A         3            COSC312
+W         1            COSC340
+
+Credits for Spring 2017: 10.00
+Spring 2017 Semester GPA: 3.20
+
+Total Credits: 84.00
+New Cumulative GPA: 2.92
+***************************************************
+***************************************************
+Student ID Number: 874874844
+Name: PASCAL, BLAZE R
+Tel: 4437464487
+Gender: Male
+Registration of Spring 2017: No
+
+   Unofficial Report Card
+Grade     Credits      Class
+
+Credits for Spring 2017: 0.00
+Spring 2017 Semester GPA: 0.00
+
+Total Credits: 64.00
+New Cumulative GPA: 3.75
+***************************************************

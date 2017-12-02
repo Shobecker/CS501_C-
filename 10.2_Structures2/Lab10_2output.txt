@@ -1,0 +1,5 @@
+Hazel Beckert 7 1 55 78 62.75 D 
+Dan Lazzari 8 7 83 96 87.50 B 
+Dipa Chevrolet 2 2 17 90 54.25 F 
+Rani Nedved 1 10 66 89 74.75 C 
+Haran Murray 9 8 90 100 93.75 A 
