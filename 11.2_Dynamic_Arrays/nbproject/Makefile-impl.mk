@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Lab11.2_Dynamic_Arrays
+PROJECTNAME=11.2_Dynamic_Arrays
 
 # Active Configuration
 DEFAULTCONF=Debug

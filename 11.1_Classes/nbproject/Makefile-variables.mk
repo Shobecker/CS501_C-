@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=lab11.1_classes
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/lab11.1_classes
+CND_ARTIFACT_NAME_Debug=11.1_classes
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/11.1_classes
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=lab11.1classes.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/lab11.1classes.tar
+CND_PACKAGE_NAME_Debug=11.1classes.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/11.1classes.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=lab11.1_classes
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/lab11.1_classes
+CND_ARTIFACT_NAME_Release=11.1_classes
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/11.1_classes
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=lab11.1classes.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/lab11.1classes.tar
+CND_PACKAGE_NAME_Release=11.1classes.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/11.1classes.tar
 #
 # include compiler specific variables
 #

@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Lab11.1_Classes
+PROJECTNAME=11.1_Classes
 
 # Active Configuration
 DEFAULTCONF=Debug
